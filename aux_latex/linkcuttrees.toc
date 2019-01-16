@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Terminologies}{3}{0}{1}
+\beamer@sectionintoc {2}{Recap}{9}{0}{2}
+\beamer@sectionintoc {3}{Actual Algorithm}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Definitions}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Auxiliary Trees}{22}{0}{3}
+\beamer@subsectionintoc {3}{3}{Access(v)}{28}{0}{3}
+\beamer@subsectionintoc {3}{4}{Find\_Root}{40}{0}{3}
+\beamer@subsectionintoc {3}{5}{Cut($v$) and Link($v$, $w$)}{42}{0}{3}
+\beamer@subsectionintoc {3}{6}{Path\_Aggregate}{44}{0}{3}
+\beamer@sectionintoc {4}{Proof}{46}{0}{4}
+\beamer@subsectionintoc {4}{1}{Sketch}{47}{0}{4}
+\beamer@subsectionintoc {4}{2}{HLD again!}{53}{0}{4}
+\beamer@subsectionintoc {4}{3}{Proving the tighter bound}{61}{0}{4}

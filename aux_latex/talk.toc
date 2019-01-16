@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{ICPC}{3}{0}{1}
+\beamer@sectionintoc {2}{Binary Search}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Why?}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Analysing?}{7}{0}{2}
+\beamer@subsectionintoc {2}{3}{Picture is worth a 1000 words!}{8}{0}{2}
+\beamer@subsectionintoc {2}{4}{Problems}{9}{0}{2}
+\beamer@sectionintoc {3}{Dynamic Programming}{10}{0}{3}
+\beamer@sectionintoc {4}{Graphs}{12}{0}{4}
+\beamer@sectionintoc {5}{Closing Remarks}{14}{0}{5}

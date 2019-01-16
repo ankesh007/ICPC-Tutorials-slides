@@ -1,0 +1,93 @@
+\beamer@endinputifotherversion {3.36pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Terminologies}{3}{Terminologies}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\slideentry {1}{0}{1}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{0}{2}{4/6}{}{0}}
+\headcommand {\beamer@framepages {4}{6}}
+\headcommand {\slideentry {1}{0}{3}{7/8}{}{0}}
+\headcommand {\beamer@framepages {7}{8}}
+\headcommand {\sectionentry {2}{Recap}{9}{Recap}{0}}
+\headcommand {\beamer@sectionpages {3}{8}}
+\headcommand {\beamer@subsectionpages {3}{8}}
+\headcommand {\slideentry {2}{0}{1}{9/9}{}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{0}{2}{10/10}{}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {2}{0}{3}{11/13}{}{0}}
+\headcommand {\beamer@framepages {11}{13}}
+\headcommand {\sectionentry {3}{Actual Algorithm}{14}{Actual Algorithm}{0}}
+\headcommand {\beamer@sectionpages {9}{13}}
+\headcommand {\beamer@subsectionpages {9}{13}}
+\headcommand {\slideentry {3}{0}{1}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{15}{Definitions}}\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\slideentry {3}{1}{1}{15/15}{Definitions}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {3}{1}{2}{16/18}{Definitions}{0}}
+\headcommand {\beamer@framepages {16}{18}}
+\headcommand {\slideentry {3}{1}{3}{19/21}{Definitions}{0}}
+\headcommand {\beamer@framepages {19}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{22}{Auxiliary Trees}}\headcommand {\beamer@subsectionpages {15}{21}}
+\headcommand {\slideentry {3}{2}{1}{22/22}{Auxiliary Trees}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {3}{2}{2}{23/27}{Auxiliary Trees}{0}}
+\headcommand {\beamer@framepages {23}{27}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{28}{Access(v)}}\headcommand {\beamer@subsectionpages {22}{27}}
+\headcommand {\slideentry {3}{3}{1}{28/28}{Access(v)}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {3}{3}{2}{29/37}{Access(v)}{0}}
+\headcommand {\beamer@framepages {29}{37}}
+\headcommand {\slideentry {3}{3}{3}{38/38}{Access(v)}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {3}{3}{4}{39/39}{Access(v)}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{40}{Find\_Root}}\headcommand {\beamer@subsectionpages {28}{39}}
+\headcommand {\slideentry {3}{4}{1}{40/40}{Find\_Root}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {3}{4}{2}{41/41}{Find\_Root}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{42}{Cut($v$) and Link($v$, $w$)}}\headcommand {\beamer@subsectionpages {40}{41}}
+\headcommand {\slideentry {3}{5}{1}{42/42}{Cut($v$) and Link($v$, $w$)}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {3}{5}{2}{43/43}{Cut($v$) and Link($v$, $w$)}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{44}{Path\_Aggregate}}\headcommand {\beamer@subsectionpages {42}{43}}
+\headcommand {\slideentry {3}{6}{1}{44/44}{Path\_Aggregate}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {3}{6}{2}{45/45}{Path\_Aggregate}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\sectionentry {4}{Proof}{46}{Proof}{0}}
+\headcommand {\beamer@sectionpages {14}{45}}
+\headcommand {\beamer@subsectionpages {44}{45}}
+\headcommand {\slideentry {4}{0}{1}{46/46}{}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{47}{Sketch}}\headcommand {\beamer@subsectionpages {46}{46}}
+\headcommand {\slideentry {4}{1}{1}{47/47}{Sketch}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {4}{1}{2}{48/52}{Sketch}{0}}
+\headcommand {\beamer@framepages {48}{52}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{53}{HLD again!}}\headcommand {\beamer@subsectionpages {47}{52}}
+\headcommand {\slideentry {4}{2}{1}{53/53}{HLD again!}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\slideentry {4}{2}{2}{54/60}{HLD again!}{0}}
+\headcommand {\beamer@framepages {54}{60}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{61}{Proving the tighter bound}}\headcommand {\beamer@subsectionpages {53}{60}}
+\headcommand {\slideentry {4}{3}{1}{61/61}{Proving the tighter bound}{0}}
+\headcommand {\beamer@framepages {61}{61}}
+\headcommand {\slideentry {4}{3}{2}{62/62}{Proving the tighter bound}{0}}
+\headcommand {\beamer@framepages {62}{62}}
+\headcommand {\slideentry {4}{3}{3}{63/63}{Proving the tighter bound}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\slideentry {4}{3}{4}{64/64}{Proving the tighter bound}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\beamer@partpages {1}{64}}
+\headcommand {\beamer@subsectionpages {61}{64}}
+\headcommand {\beamer@sectionpages {46}{64}}
+\headcommand {\beamer@documentpages {64}}
+\headcommand {\def \inserttotalframenumber {33}}
