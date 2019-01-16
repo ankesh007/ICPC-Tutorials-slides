@@ -79,17 +79,21 @@
 \usepackage{graphicx} % Allows including images
 \usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
 \usepackage{amsmath}
+\graphicspath{{talk_images/}}
+
 %----------------------------------------------------------------------------------------
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
 \title[ACM ICPC Boot Camp]{ACM ICPC Boot Camp} % The short title appears at the bottom of every slide, the full title is only on the title page
-
-\author{Mohit, Rahul, Umang, Sanket} % Your name
-\institute[IITB] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+\author{Ankesh Gupta}
+\institute[IITD]
 {
-IIT Bombay \\ % Your institution for the title page
+IIT Delhi \\ % Your institution for the title page
+Credits: Adapted from IIT Bombay Slides
 }
+% \email{ankeshgupta007@gmail.com}% 
+% \author{Adapted from IIT Bombay Slides}
 \date{\today} % Date, can be changed to a custom date
 
 \begin{document}
@@ -103,26 +107,22 @@ IIT Bombay \\ % Your institution for the title page
 \frametitle{What is ACM ICPC?}
 \begin{itemize}
 \item ICPC stands for Inter-Collegiate Programming Contest,
-conducted by ACM.
-\item It is the most prestigious college level programming contest.
-\item Important Contest Dates :
+conducted by ACM
+\item It is the most prestigious college level programming contest
+\item 3 stages - Online, Onsite(regionals), World Finals
+\item Online round has ~3500 teams participating
+\item India conducts 4-5 regionals(this year 4)
 \end{itemize}
-\begin{table}
-\begin{tabular}{l l l l}
-\toprule
-\textbf{} & \textbf{Amritapuri} & \textbf{IIT Kharagpur} & \textbf{IIT Kanpur}\\
-\midrule
-Online Date & October 27 & October 19 & November 2  \\
-Onsite Date & December 18-19 & December 12-13 & December 14-15 \\
-Last Reg Date & October 26 & September 29 & October 26 \\
-Ol Rd Platform &	hackerrank &	codechef &	codechef \\
-\bottomrule
-\end{tabular}
-\end{table}
-
 \end{frame}
 
 %------------------------------------------------
+
+\begin{frame}
+	\begin{figure}[!htb]
+		\centering
+		\includegraphics[width=0.8\textwidth]{this_year_stats.png}
+	\end{figure}
+\end{frame}
 
 \begin{frame}
 \frametitle{How to Participate?}
@@ -131,9 +131,9 @@ Ol Rd Platform &	hackerrank &	codechef &	codechef \\
 \item Teams of 3.
 \item Each team should have a coach, who must be a professor.
 \item The coach registers the team for the online round.
-\item Typically 4 to 5 teams qualify from the institute in the
-online(first) round.
-\item Registration has already started. Check previous slides for details.
+\item Typically 2-3 teams qualify from the institute per regional after online round.
+\item Preference given to maximise number of distinct colleges at a regional.
+% \item Registration has already started. Check previous slides for details.
 \end{itemize}
 \end{frame}
 
@@ -202,7 +202,7 @@ Divide $10^8$ by the number of test cases and then use the following table to pr
 $10^8$ & O(n)\\
 $10^5$ & O(nlogn)\\
 $10^4$ & O($n^2$)\\
-$10^{16}$ & O($\sqrt{n}$)\\
+$10^{16}$ & O($\sqrt{n}$),O(nlogn)\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -245,8 +245,8 @@ long long  & –9,223,372,036,854,775,808 - 9,223,372,036,854,775,807\\
 \item Time Limit Exceeded
 \item Memory Limit Exceeded
 \item Wrong Answer
-\item You should be familiar with these errors before attempting a contest.
-\item Appropriate penalties are put for every erroneous solution.
+\item You should be familiar with these errors before attempting a contest
+\item Appropriate penalties are put for every erroneous solution
 \end{itemize}
 \end{frame}
 
@@ -257,8 +257,8 @@ long long  & –9,223,372,036,854,775,808 - 9,223,372,036,854,775,807\\
 \frametitle{Programming Style}
 \begin{itemize}
 \item C, C++, Java is allowed in all contests. So preferably practice
-in only these.
-\item Using templates can ease your job during a contest.
+in only these
+\item Using templates can ease your job during a contest
 \item Be aware! Corner cases can get tricky!
 \item Be careful about the output format; take care in removing
 stray outputs.
@@ -307,11 +307,10 @@ sort, next permutation, etc...
 \begin{frame}
 \frametitle{Where and How to Practice?}
 \begin{itemize}
-\item TopCoder Tutorials, Start from Div2 problems which are basic and then proceed as per your speed. Try participating in SRM's.
-\item Hackerrank is a new platform with a good interface and problems escalating from simple to difficult.
-\item Codechef cookoff (monthly contest) and long contests should be tried.
-\item SPOJ solutions are not easy to find so you might want to give a try to other available resources before attempting these.
-\item We will mail you the important tutorials from topcoder which you should definitely read apart from others.
+\item Codeforces div3, div2, educational rounds, div1
+\item Codechef cookoff (monthly contest) and long contests should be tried
+\item SPOJ solutions are not easy to find but lots of discussion available online for same
+\item Hackerearth, Hackerrank - simple platform with a good interface and problems escalating from simple to difficult
 \end{itemize}
 \end{frame}
 
@@ -319,10 +318,10 @@ sort, next permutation, etc...
 \begin{frame}
 \frametitle{Success is team work}
 \begin{itemize}
-\item Knowing who does what best can help in planning.
-\item Try forming a team with people having different strengths.
-\item Cross check your teammate’s solution for higher accuracy before submitting.
-\item Ensure that all three are not stuck on the same problem. Start attacking different problems.
+\item Knowing who does what best can help in planning
+\item Try forming a team with people having different strengths
+\item Cross check your teammate’s solution for higher accuracy before submitting
+\item Ensure that all three are not stuck on the same problem. Start attacking different problems
 \item Stay cool! Don’t panic! :)
 \end{itemize}
 \end{frame}
