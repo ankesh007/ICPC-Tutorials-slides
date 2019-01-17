@@ -2,7 +2,7 @@
 
 This repository was initiated with my talk at ***ICCECE, IEEE*** held at Kolkata in January,2019.
 
-`talk.pdf`(`talk.tex`) is the root presentation(tex) of presentation made by me. I detoured to other presentations as and when necessary(Was too lazy to merge! :p)
+`talk.pdf`(`talk.tex`) is the root presentation(tex) of presentation made by me. I detoured to other presentations as and when necessary(Was too lazy to merge! :p) Thanks **Bhavit** for helping me create this. 
 
 Other slides and works are adapted from other institutes programming pages that are published online.
 
