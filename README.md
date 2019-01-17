@@ -18,7 +18,7 @@ I would like to give due **credits** to the slide/notes owners:
 
 Sorry if I missed any credits. 
 
-I will try adding more stuffs and keeping this updated.
+I will try adding more stuffs and keep this updated.
 Also I have added a 'link' file to add good links. Feel free to share and contribute.
 
-PS: not_covered is named so because I didn't touch upon them in my talk.
+PS: `not_covered` is named so because I didn't touch upon them in my talk.
