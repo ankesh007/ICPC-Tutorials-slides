@@ -6,7 +6,7 @@ This repository was initiated with my talk at ***ICCECE, IEEE*** held at Kolkata
 
 Other slides and works are adapted from other institutes programming pages that are published online.
 
-I would like to give due **credits** to the slide/notes owners:
+I would like to give due **credits** to respective slide/notes creators:
 
 1. `BinarySearch.pdf`: Bhavit Sharma and Prateek Karnal, IIT Patna
 2. `graph.pdf`,`not_covered/Number Theory.pdf`: Programming And Algorithms Group(PAG), IIT Roorkee
