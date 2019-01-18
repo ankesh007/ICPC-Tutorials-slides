@@ -21,4 +21,6 @@ Sorry if I missed any credits.
 I will try adding more stuffs and keep this updated.
 Also I have added a 'link' file to add good links. Feel free to share and contribute.
 
+I am also linking codebook we used in ICPC. There are many available online. [Click](https://github.com/ankesh007/Tested-Codes-for-Codebook)
+
 PS: `not_covered` is named so because I didn't touch upon them in my talk.
